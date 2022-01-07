@@ -1,0 +1,8 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    background-color: #6e072d;
+    color: white;
+    font-size: 18px;
+}
+
